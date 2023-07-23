@@ -1,0 +1,12 @@
+① answer1 = 4
+
+② calc2 = 11  
+　 answer2 = 11
+
+③ calc3 =  11
+　 answer3 = 10
+
+④ calc4 = 10
+　 answer4 = 11
+
+⑤ 16

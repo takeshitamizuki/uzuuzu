@@ -1,0 +1,9 @@
+(1)
+1. byte, short, int, long
+2. String
+3. オーバーロードされていない
+
+(2)
+1. String
+2. boolean, char, double, float, int, long 
+3. オーバーロードされている
